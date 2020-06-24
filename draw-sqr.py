@@ -1,6 +1,6 @@
-#!/bin/python
+#!/bin/python3
 
-#Draw a sqare with a pre defind char and lenght
+#Draw a sqare with a pre defind char and length
 #length support range(0,infinity)
 #by BYTE-LY
 
